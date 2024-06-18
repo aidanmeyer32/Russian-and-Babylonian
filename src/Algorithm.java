@@ -1,4 +1,4 @@
-public class Algorithm {
+public class Algorithm { //algorithm classes
     public Algorithm(){}
     public int russianMultiplication(int num1, int num2){
         int result = 0;
